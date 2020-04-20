@@ -1,0 +1,20 @@
+name: animation_helpers
+description: Facilitatiors for developing flutter animations
+version: 1.0.0
+author: David Araujo <david@flutterando.com.br>
+homepage: https://flutterando.com.br
+git: https://github.com/davidsdearaujo/animation_helpers
+repository: https://github.com/davidsdearaujo/animation_helpers
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
