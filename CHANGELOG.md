@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [1.0.2] - 2021.02.17
 
-* TODO: Describe initial release.
+* Added const into **InterpolationController**.
