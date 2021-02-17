@@ -4,7 +4,7 @@ class InterpolationController {
   final double begin;
   final double end;
 
-  InterpolationController({
+  const InterpolationController({
     @required this.begin,
     @required this.end,
   })  : assert(begin != null),
